@@ -1,2 +1,3 @@
 # Chaoxing-AutoSign
-超星学习通签到爬虫
+
+超星学习通签到API
